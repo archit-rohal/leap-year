@@ -1,0 +1,49 @@
+.banner {
+  text-align: center;
+  font-size: 3rem;
+  background-color: coral;
+  margin-bottom: 6rem;
+}
+.direct {
+  text-align: center;
+  font-size: 1.5rem;
+}
+textarea {
+  margin: auto;
+  border: 3px solid black;
+  border-color: blue;
+  padding: 0.2rem;
+  height: 2vh;
+  width: 8rem;
+  display: block;
+}
+.container {
+  height: 200px;
+  position: relative;
+  background-color: blue;
+  margin-top: 5rem;
+  margin-bottom: 4px;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#btn-translate {
+  height: 4vh;
+  width: 150px;
+}
+#output {
+  color: blue;
+  margin: auto;
+  padding: 1rem;
+  padding-top: 5rem;
+  height: 5vh;
+  width: 50%;
+  display: block;
+  text-align: center;
+  font-size: 2rem;
+}
